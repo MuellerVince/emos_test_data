@@ -1,0 +1,15 @@
+{
+   "weekDate":"12.3.2323 - 12.3.3999",
+   "weekAB":"A",
+   "calendarWeek":"23",
+   "generalRemarks":"Gibt noch keine.",
+   "substitutions":[
+      {
+         "teacher":"Ok",
+         "lesson":"3.E",
+         "subject":"Englisch",
+         "concernedClass":"",
+         "day":"Mittwoch"
+      }
+   ]
+}
